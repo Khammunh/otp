@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "857130167593",
-    "project_id": "otp-number-673b3",
-    "storage_bucket": "otp-number-673b3.appspot.com"
+    "project_number": "562677276417",
+    "project_id": "otp-android-7bd47",
+    "storage_bucket": "otp-android-7bd47.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:857130167593:android:b2f665f422bf18c7709b38",
+        "mobilesdk_app_id": "1:562677276417:android:0b785322a0719d264f8500",
         "android_client_info": {
           "package_name": "com.example.otp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBkg-D0H0mHeh3JkfR1XbupHpynFTb5gXA"
+          "current_key": "AIzaSyA0n_Ov3vBJ0rtseWXmPMWc5EwA7T86pvE"
         }
       ],
       "services": {
